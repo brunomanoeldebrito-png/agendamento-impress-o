@@ -265,4 +265,27 @@
   </script>
 </body>
 </html>
--o
+-o<h3>Tabela de Serviços e Preços</h3>
+<table class="tabela-precos">
+  <thead>
+    <tr>
+      <th>Serviço</th>
+      <th>Descrição</th>
+      <th>Preço (por página)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Xerox</td>
+      <td>Preto e branco</td>
+      <td>R$ 2,00</td>
+    </tr>
+    <tr>
+      <td>Impressão comum</td>
+      <td>Colorida ou preto e branco</td>
+      <td>R$ 2,50</td>
+    </tr>
+  </tbody>
+</table>
+
+
