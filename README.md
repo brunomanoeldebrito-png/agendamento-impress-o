@@ -286,6 +286,20 @@
       <td>R$ 2,50</td>
     </tr>
   </tbody>
-</table>
+</table><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Agendamento Impressão</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Agendamento - Impressão Rápida</h1>
+    <form>
+      <!-- Aqui ficam os inputs, selects, botões -->
+    </form>
+  </div>
+</body>
+</html>
 
 
